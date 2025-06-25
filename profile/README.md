@@ -54,7 +54,6 @@ This repository contains the complete PLGL ecosystem:
 
 - **[skindeep-mobile](https://github.com/skindeepai/skindeep-mobile)** - Original iOS/Android apps (NativeScript)
 - **[skindeep-server](https://github.com/skindeepai/skindeep-server)** - Original backend implementation
-- **[plgl-examples](https://github.com/skindeepai/plgl-examples)** - Extended examples collection
 
 ## 📚 Documentation
 
@@ -95,21 +94,3 @@ PLGL is released under the [MIT License](LICENSE). You're free to use, modify, a
 - **Email**: contact@skindeep.ai
 - **GitHub**: [@skindeepai](https://github.com/skindeepai)
 - **Founder**: [steveseguin.com](https://steveseguin.com)
-
----
-
-<p align="center">
-  <strong>Join the preference revolution. Make AI truly personal.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/skindeepai/plgl">
-    <img src="https://img.shields.io/badge/Get%20Started-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Get Started">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Built with ❤️ by SkinDeep.ai Inc. Transforming AI interaction since 2018.</sub>
-</p>
