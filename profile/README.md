@@ -38,7 +38,7 @@ This repository contains the complete PLGL ecosystem:
 ## 📚 Documentation
 
 - **[Getting Started Guide](https://skindeep.ai/getting-started.html)** - Step-by-step implementation
-- **[Technical Whitepaper](PLGL_Whitepaper.md)** - In-depth algorithm details
+- **[Technical Whitepaper](https://skindeep.ai/whitepaper.html)** - In-depth algorithm details
 - **[How It Works](https://skindeep.ai/how-it-works.html)** - Visual explanation
 
 ## 🛠️ Technical Innovation
