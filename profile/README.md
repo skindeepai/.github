@@ -9,14 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://skindeep.ai">Website</a> •
-  <a href="https://skindeep.ai/whitepaper.html">Whitepaper</a> •
-  <a href="https://skindeep.ai/how-it-works.html">How It Works</a> •
-  <a href="https://skindeep.ai/getting-started.html">Documentation</a> •
-  <a href="https://skindeep.ai/examples/">Live Demos</a>
-</p>
-
-<p align="center">
   <a href="https://github.com/skindeepai/plgl/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
 </p>
 
