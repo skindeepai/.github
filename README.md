@@ -1,7 +1,7 @@
 # SkinDeep.ai - Preference Learning in Generative Latent Spaces (PLGL)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/skindeepai/skindeepai.github.io/main/favicon-simple.svg" alt="PLGL Logo" width="120" height="120">
+  <img src="https://raw.githubusercontent.com/skindeepai/website/refs/heads/main/favicon-simple.svg" alt="PLGL Logo" width="120" height="120">
 </p>
 
 <p align="center">
