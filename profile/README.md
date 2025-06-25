@@ -42,8 +42,8 @@ This repository contains the complete PLGL ecosystem:
 
 ```
 /
-├── plgl-website/          # Documentation website and demos
-├── plgl-core/            # Core Python package (pip installable)
+├── website/          # Documentation website and demos
+├── core/            # Core Python package (pip installable)
 ├── examples/             # Example implementations
 ├── PLGL_Whitepaper.md    # Technical whitepaper
 ├── ProvisionalPatent.txt # Original 2019 patent filing
