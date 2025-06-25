@@ -30,18 +30,6 @@
 
 This repository contains the complete PLGL ecosystem:
 
-### Core Components
-
-```
-/
-├── website/          # Documentation website and demos
-├── core/            # Core Python package (pip installable)
-├── examples/             # Example implementations
-├── PLGL_Whitepaper.md    # Technical whitepaper
-├── ProvisionalPatent.txt # Original 2019 patent filing
-└── LAUNCH_WEBSITE.md     # Website deployment guide
-```
-
 ### Related Repositories
 
 - **[skindeep-mobile](https://github.com/skindeepai/skindeep-mobile)** - Original iOS/Android apps (NativeScript)
