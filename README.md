@@ -18,7 +18,6 @@
 
 <p align="center">
   <a href="https://github.com/skindeepai/plgl/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/skindeepai/plgl/stargazers"><img src="https://img.shields.io/github/stars/skindeepai/plgl?style=social" alt="GitHub stars"></a>
 </p>
 
 ---
