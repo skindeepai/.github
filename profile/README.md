@@ -56,72 +56,11 @@ This repository contains the complete PLGL ecosystem:
 - **[skindeep-server](https://github.com/skindeepai/skindeep-server)** - Original backend implementation
 - **[plgl-examples](https://github.com/skindeepai/plgl-examples)** - Extended examples collection
 
-## 🚀 Quick Start
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/skindeepai/plgl.git
-cd plgl
-
-# Install the Python package
-pip install -e plgl-core/
-```
-
-### Basic Usage
-
-```python
-from plgl import PLGLCore, PreferenceModel
-
-# Initialize with your generative model
-plgl = PLGLCore(
-    generator=your_model,
-    latent_dim=512
-)
-
-# Generate initial samples
-samples = plgl.generate_samples(n=10)
-
-# Collect user preferences
-preferences = []
-for sample in samples:
-    rating = get_user_rating(sample)  # 👍 or 👎
-    preferences.append((sample, rating))
-
-# Update preference model
-plgl.update_preferences(preferences)
-
-# Generate optimized content
-ideal_content = plgl.generate_optimal()
-```
-
-## 🎯 Applications
-
-PLGL transforms any generative AI application:
-
-| Domain | Application | Benefits |
-|--------|-------------|----------|
-| 🎨 **Creative** | Art, Music, Design | No more prompt engineering |
-| 📱 **Social** | Content feeds, Dating | Privacy-preserving personalization |
-| 🛍️ **Commerce** | Product recommendations | Visual preference learning |
-| 🧬 **Research** | Drug discovery, Materials | Efficient exploration |
-| 🏗️ **Design** | Architecture, Interiors | Intuitive customization |
-| 🎮 **Gaming** | Level generation, NPCs | Player-adaptive content |
-
 ## 📚 Documentation
 
 - **[Getting Started Guide](https://skindeep.ai/getting-started.html)** - Step-by-step implementation
 - **[Technical Whitepaper](PLGL_Whitepaper.md)** - In-depth algorithm details
-- **[API Reference](https://skindeep.ai/api)** - Complete API documentation
-- **[Live Examples](https://skindeep.ai/examples)** - Interactive demos
 - **[How It Works](https://skindeep.ai/how-it-works.html)** - Visual explanation
-
-## 🎥 Demo Videos
-
-- **[Technology Overview](https://www.youtube.com/watch?v=M4oQLev_Sk8)** - 5-minute introduction
-- **[Technical Deep Dive](https://www.youtube.com/watch?v=-6mAyFJ4_ME)** - Detailed walkthrough
-- **[Original App Demo](https://youtube.com/skindeepai)** - 2019 dating app implementation
 
 ## 🛠️ Technical Innovation
 
@@ -133,19 +72,6 @@ SVM-based preference models update in 10ms, enabling truly interactive experienc
 
 ### Multi-modal Support
 Handle multiple preference peaks - users can have diverse tastes that change with context.
-
-## 🤝 Contributing
-
-We welcome contributions! PLGL is open source under the MIT license.
-
-### Ways to Help
-
-- 🐛 Report bugs and issues
-- 💡 Suggest new features
-- 🔧 Submit pull requests
-- 📖 Improve documentation
-- 🌟 Star the repository
-- 📢 Share with others
 
 ## 👨‍💻 About the Founder
 
