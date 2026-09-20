@@ -1,9 +1,5 @@
 # SkinDeep.ai
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/skindeepai/website/main/favicon.svg" alt="SkinDeep logo" width="96" height="96">
-</p>
-
 SkinDeep is an independent research lab working on preference learning, direct model outputs, and ways to reduce model computation.
 
 The work began with an app that learned what people liked from ratings of generated faces. Today we also test models that return labels or coordinates, and methods that stop processing early or ask a larger model for help.
